@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Hoai Bao
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Data Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-1/431004077_1583245439116417_2142865102858024490_n.jpg?stp=dst-jpg_s160x160_tt6&_nc_cat=111&ccb=1-7&_nc_sid=e99d92&_nc_ohc=Sp2UiFe6eNoQ7kNvgH3SN49&_nc_oc=AdgkjAQvDNdnmvCgAxM4cRdlDuOTMJJryvqsneJV-65cZt5A5GxQvGxvcB2Oiq8T4AQ&_nc_zt=24&_nc_ht=scontent.fhan2-3.fna&_nc_gid=ACnBFqDXYi-sDbuH0s7wXI3&oh=00_AYCn1ZwFLjH21uqpESGhpT1wBQWaA9IrsjJ-N2dKNi5p9A&oe=67785603
 
 #
 # Flags below are optional
